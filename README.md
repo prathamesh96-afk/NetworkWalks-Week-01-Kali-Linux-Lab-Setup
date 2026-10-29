@@ -28,23 +28,30 @@ The objective was to set up a virtual cybersecurity lab using Oracle VirtualBox 
 - Virtual machine snapshots and recovery
 
 ## Project Screenshots
-### VirtualBox Setup
-![VirtualBox Setup](screenshots/01-virtualbox-setup.png)
 
-### Kali Linux VM
-![Kali Linux VM](screenshots/02-kali-linux-vm.png)
+## Project Screenshots
 
-### NAT Network Configuration
-![NAT Network](screenshots/03-nat-network.png)
+### 1. VirtualBox Setup
+![VirtualBox Setup](screenshots/virtual%20box%20setup%20.png)
 
-### IP Configuration
-![IP Configuration](screenshots/04-ip-configuration.png)
+### 2. Kali Linux Running
+![Kali Linux Running](screenshots/virtual%20kali%20running%20.png)
 
-### Connectivity Test
-![Connectivity Test](screenshots/05-connectivity-test.png)
+### 3. VirtualBox Network Configuration
+![VirtualBox Network Configuration](screenshots/virtual%20box%20network%20config%20.png)
 
-### DNS Resolution
-![DNS Resolution](screenshots/06-dns-resolution.png)
+### 4. NAT Network Settings
+![NAT Network Settings](screenshots/nat%20network%20setting%20.png)
+
+### 5. Kali Linux Network Settings
+![Kali Linux Network Settings](screenshots/kali%20linux%20network%20setting%20.png)
+
+### 6. Ping Connectivity Test
+![Ping Connectivity Test](screenshots/ping%20command%20.png)
+
+### 7. DNS Resolution
+![DNS Resolution](screenshots/dns%20server.png)
+
 
 ## Learning Outcome
 This project helped me gain practical experience with a virtual cybersecurity lab and understand the networking basics required for future cybersecurity and penetration testing projects.
